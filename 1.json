@@ -1,23 +1,23 @@
 {
-    description: "Chelpis",
-    image: "https://media.cakeresume.com/image/upload/s--Tn7cwjSq--/c_pad,fl_png8,h_400,w_400/v1636609202/dzz2wefye8xnai8vmdrt.png",
-    name: "Chelpis #33",
-    attributes: [
+    "description": "Chelpis",
+    "image": "https://media.cakeresume.com/image/upload/s--Tn7cwjSq--/c_pad,fl_png8,h_400,w_400/v1636609202/dzz2wefye8xnai8vmdrt.png",
+    "name": "Chelpis #33",
+    "attributes": [
         {
-            trait_type: "Background",
-            value: "White"
+            "trait_type": "Background",
+            "value": "White"
         },
         {
-            trait_type: "Hair Style",
-            value: "Long Straight Bangs"
+            "trait_type": "Hair Style",
+            "value": "Long Straight Bangs"
         },
         {
-            trait_type: "Hair Color",
-            value: "Black"
+            "trait_type": "Hair Color",
+            "value": "Black"
         },
         {
-            trait_type: "Accessories",
-            value: ""
+            "trait_type": "Accessories",
+            "value": ""
         }
     ]
 }
