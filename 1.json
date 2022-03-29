@@ -9,7 +9,7 @@
         },
         {
             "trait_type": "Hair Style",
-            "value": "Long Straight Bangs"
+            "value": "山本頭"
         },
         {
             "trait_type": "Hair Color",
@@ -18,6 +18,29 @@
         {
             "trait_type": "Accessories",
             "value": ""
+        },
+        {
+            "display_type": "number",
+            "trait_type": "中部排名",
+            "value": 1,
+        },
+        {
+            "trait_type": "中部排名",
+            "value": 1,
+        },
+        {
+            "trait_type": "全台排名",
+            "value": 10,
+        },
+        {
+            "display_type": "boost_number",
+            "trait_type": "公斤數",
+            "value": 40,
+        },
+        {
+            "display_type": "boost_percentage",
+            "trait_type": "子彈數",
+            "value": 10
         }
     ]
 }
