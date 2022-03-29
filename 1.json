@@ -9,7 +9,7 @@
         },
         {
             "trait_type": "Hair Style",
-            "value": "山本頭"
+            "value": "Shanben head"
         },
         {
             "trait_type": "Hair Color",
@@ -21,25 +21,25 @@
         },
         {
             "display_type": "number",
-            "trait_type": "中部排名",
+            "trait_type": "Taichung",
             "value": 1
         },
         {
-            "trait_type": "中部排名",
+            "trait_type": "Taichung",
             "value": 1
         },
         {
-            "trait_type": "全台排名",
+            "trait_type": "Taiwan",
             "value": 10
         },
         {
             "display_type": "boost_number",
-            "trait_type": "公斤數",
+            "trait_type": "Kilogram",
             "value": 40
         },
         {
             "display_type": "boost_percentage",
-            "trait_type": "子彈數",
+            "trait_type": "Bullet number",
             "value": 10
         }
     ]
