@@ -22,20 +22,20 @@
         {
             "display_type": "number",
             "trait_type": "中部排名",
-            "value": 1,
+            "value": 1
         },
         {
             "trait_type": "中部排名",
-            "value": 1,
+            "value": 1
         },
         {
             "trait_type": "全台排名",
-            "value": 10,
+            "value": 10
         },
         {
             "display_type": "boost_number",
             "trait_type": "公斤數",
-            "value": 40,
+            "value": 40
         },
         {
             "display_type": "boost_percentage",
