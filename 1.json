@@ -2,8 +2,10 @@
     "description": "Create by [Taichung-Welcome](https://testnets.opensea.io/collection/taichung-welcome) #### Renew at #### now",
     "image": "https://yichenghsu.github.io/nft-metadata/cover.jpeg",
     "name": "台中在地風情 #0",
-    "background_color": "#fff",
-    "external_url": "https://news.cts.com.tw/cts/life/202105/202105022040755.html",
+    "background_color": "",
+    "external_url": "",
+    "animation_url": "",
+    "youtube_url": "",
     "attributes": [
         {
             "trait_type": "Background",
